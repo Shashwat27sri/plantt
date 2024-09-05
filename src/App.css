@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+:root{
+  --white :#f2f7f2;
+  --grey:#6f736e;
+  --parrotgreen: #2d3d2a;
+  --black:#081b03;
+  --neongreen:#4d933e;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
